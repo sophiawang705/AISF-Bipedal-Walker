@@ -25,3 +25,6 @@ https://github.com/user-attachments/assets/2f12837c-0862-441a-9205-e15893f014fd
 
 Total training steps: 1M
 
+
+<img width="1017" height="548" alt="download" src="https://github.com/user-attachments/assets/23036800-f265-45f2-9441-e696eeec5d30" />
+
