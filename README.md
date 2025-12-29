@@ -23,5 +23,5 @@ VecNormalize: To balance sensor input scales (LIDAR vs. Velocity).
 
 https://github.com/user-attachments/assets/2f12837c-0862-441a-9205-e15893f014fd
 
-
+Total training steps: 1M
 
